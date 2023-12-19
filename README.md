@@ -1,3 +1,3 @@
-Odin Recipes Project
+# Odin Recipes Project
 
 Practicing Basic HTML
